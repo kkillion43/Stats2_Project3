@@ -1,7 +1,7 @@
 # Stats2_Project3
 Logistic Regression Analysis - Osteoporosis within Women over age 55
 
-##Introduction 
+## Introduction 
 
 Between 2005 and 2014, the Global Longitudinal Study of Osteoporosis in Women (GLOW) conducted a study to further an understanding of ways to prevent and minimize the probabilities of fracture related incidences associated with osteoporosis. This disease heavily impacts roughly 200 million people and life expectancies continue to keep growing. It is vital to gather further knowledge and awareness to improve quality of life within the golden years. 
 
